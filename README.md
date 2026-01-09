@@ -1,1 +1,1 @@
-# University-Smart-Classroom-Occupancy-Detector-
+# University-Smart-Classroom-Occupancy-Detector
